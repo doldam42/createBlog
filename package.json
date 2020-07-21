@@ -1,0 +1,15 @@
+{
+  "name": "createblog",
+  "version": "1.0.0",
+  "description": "create blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://doldam42:qkrwprkehldjqjflscjswofmfdktldh?@github.com/doldam42/createBlog.git"
+  },
+  "author": "doldam42",
+  "license": "ISC"
+}
